@@ -6,7 +6,7 @@ body {
 
 .jumbotron {
     padding: 2%;
-    background: orange;
+    background: #00caa9;
     color: #fff;
 }
 
@@ -42,13 +42,13 @@ main {
 
 .word-submission {
     font-size: 30px;
-    color: orange;
+    color: #00caa9;
     font-weight: normal;
 }
 
 .allowed-letter {
     font-size: 40px;
-    color: orange;
+    color: #00caa9;
 }
 
 .scoreboard-data {
@@ -63,6 +63,6 @@ input {
 }
 
 input:focus {
-    border: 2px solid #4285F4; /* Bootstrap "primary" blue */
-    outline-color: #4285f4; /* outline is the fuzzy "glow" */
+    border: 2px solid ##00caa9; /* Bootstrap "primary" blue */
+    outline-color: #00caa9; /* outline is the fuzzy "glow" */
 }
